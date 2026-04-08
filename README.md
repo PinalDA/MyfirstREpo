@@ -14,7 +14,7 @@ Copy " git remote add origin " command and paste in vsc terminal and hit enter
 ## Steps to make and commit a new version of your project :
 1. "git add .'- add all files in this  directory to a new project version.
 --  **This doees not commit, it just stages changes, these changes can be still be over written**
-2. "git commit-m " commit message " - this command makes a commit and gives it a massage
+2. "git commit -m " commit message " - this command makes a commit and gives it a massage
 
 ## Steps to push commits to github.com
 1. 'git push origin -u main' - pushes all commits to github 
